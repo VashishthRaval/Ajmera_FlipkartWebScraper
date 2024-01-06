@@ -9,7 +9,8 @@ CSV Data Storage: Organizes extracted data and saves it in a structured CSV file
 
 <h2>Usage</h2>   
 
-**Clone the Repository:**     
+**Clone the Repository:**   
+'''bash
 git clone https://github.com/VashishthRaval/Ajmera_FlipkartWebScraper.git   
 cd flipkart-scraper  
 

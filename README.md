@@ -8,8 +8,8 @@ Pagination Handling: Iterates through multiple pages of search results to captur
 CSV Data Storage: Organizes extracted data and saves it in a structured CSV file for easy analysis.  
 
 <h2>Usage</h2>    
-**Clone the Repository:**   
-git clone https://github.com/VashishthRaval/Ajmera_FlipkartWebScraper.git  
+**Clone the Repository:**     
+git clone https://github.com/VashishthRaval/Ajmera_FlipkartWebScraper.git   
 cd flipkart-scraper  
 
 **Install Dependencies:**    

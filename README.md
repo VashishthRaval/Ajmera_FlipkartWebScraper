@@ -7,7 +7,8 @@ Web Scraping: Utilizes the BeautifulSoup library to parse HTML and extract relev
 Pagination Handling: Iterates through multiple pages of search results to capture a comprehensive dataset.  
 CSV Data Storage: Organizes extracted data and saves it in a structured CSV file for easy analysis.  
 
-<h2>Usage</h2>    
+<h2>Usage</h2>   
+
 **Clone the Repository:**     
 git clone https://github.com/VashishthRaval/Ajmera_FlipkartWebScraper.git   
 cd flipkart-scraper  

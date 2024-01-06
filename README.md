@@ -10,16 +10,18 @@ CSV Data Storage: Organizes extracted data and saves it in a structured CSV file
 <h2>Usage</h2>   
 
 **Clone the Repository:**   
-'''bash
+```bash
 git clone https://github.com/VashishthRaval/Ajmera_FlipkartWebScraper.git   
 cd flipkart-scraper  
-
-**Install Dependencies:**    
+```
+**Install Dependencies:**   
+```bash
 pip install beautifulsoup4   
-pip install requests  
-
+pip install requests
+```
 **Run the Script:**    
+```bash
 python flipkart_scraper.py  
-
+```
 **Check the Generated CSV File:**    
 The scraped data will be saved in a file named "iPhone.csv" in the same directory.

@@ -14,7 +14,8 @@ git clone https://github.com/VashishthRaval/Ajmera_FlipkartWebScraper.git
 cd flipkart-scraper  
 
 **Install Dependencies:**    
-pip install beautifulsoup4 requests  
+pip install beautifulsoup4   
+pip install requests  
 
 **Run the Script:**    
 python flipkart_scraper.py  
